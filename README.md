@@ -1,5 +1,5 @@
 # whereis-ext
-Alternative and extended version on "whereis" Linux utility
+Alternative version of "whereis" Linux utility
 
 # Features:
 * Can find config or photo or archive file
